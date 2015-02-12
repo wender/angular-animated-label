@@ -55,4 +55,7 @@ Now let the magic with your CSS
 </style>
 ```
 
+Install via Bower
+    bower install angular-animated-label --save
+
 
