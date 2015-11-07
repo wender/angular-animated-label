@@ -4,6 +4,7 @@
 
 Awesome effect to save space at forms turning labels into placeholders and still make it's information visible
 
+[DEMO](http://wender.github.io/angular-animated-label/)
 
 This directive will look for the attribute 'animated-label' on input
 ## Example: 
@@ -56,6 +57,7 @@ Now let the magic with your CSS
 ```
 
 Install via Bower
-    bower install angular-animated-label --save
+
+	bower install angular-animated-label --save
 
 
